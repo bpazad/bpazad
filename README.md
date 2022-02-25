@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abul  Kalam Azad
 #### A passionate Mobile Applicaton developer from Bangladesh
-![A passionate Mobile Applicaton developer from Bangladesh](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/274590859_2849125672051382_3234172802001822525_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF4JLM4UrZVO29iAznRmpZOcVXxTZbenN5xVfFNlt6c3kphHCAxptCNYYNYHbB5Mz3ZfTbC2TSRt6GSJFt9dISt&_nc_ohc=t49ZVZlzzR0AX8v2jbc&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AT__S1VGBlS_YRHsyuZwmNjf2-1F5VOt0SEnRDD--fw7Hw&oe=621D7F6E)
+![A passionate Mobile Applicaton developer from Bangladesh]
 
 I have the passion to solve problems within a short time.
 
